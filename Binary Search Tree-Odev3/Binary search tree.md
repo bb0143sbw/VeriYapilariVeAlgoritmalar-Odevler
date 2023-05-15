@@ -8,7 +8,7 @@ elimizde bulunan ver grubunun sıralı olduğunu kabul ederiz ve bu veri grubu t
 
 **Yukarıdaki dizinin aşamalarını yazınız.**
 Root **5** olsun ve tree yapımızı oluşturalım. Root'un solundaki değerler root değerinden küçüktür, root'un sağındaki değerler root değerinden büyüktür.
-`
+
 
                 5
                /  \
@@ -18,7 +18,7 @@ Root **5** olsun ve tree yapımızı oluşturalım. Root'un solundaki değerler 
            / \      / \
           1   4    6   8
          / \        \   \
-         0  2        7   9
+         0  2       7   9
 
-`
+
 3 değeri 6 değerinden küçük olduğu için sol düğüme yazılmıştır. 7 değeri de 6 değerinden büyük olduğu için sağ düğüme yazılmıştır. Diğer değerlerde bu mantık izlenerek düğümlere yerleştirilmiştir.
