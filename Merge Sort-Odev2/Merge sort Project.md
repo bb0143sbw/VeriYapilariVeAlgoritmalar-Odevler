@@ -14,11 +14,11 @@ Merge sort sıralama algoritmasında dizideki elemanları ikiye bölerek alt diz
 
 3.adım:[**16**] - [**21**] - [**11**] - [**8**] - [**12**] - [**22**] tekrar gruplara ayırırız
 
-4:adım:[==16 - 21==] - [11] - [==8,12==] - [22] gruplarken küçükten büyüğe sıralama yaparak gruplarız
+4:adım:[**16-21**] - [11] - [**8,12**] - [22] gruplarken küçükten büyüğe sıralama yaparak gruplarız
 
-5.adım:[==11-16-21==] - [==8,12,22==] tekrar gruplarken küçükten büyüğe sıralama yaparak sıralarız
+5.adım:[**11-16-21**] - [**8,12,22**] tekrar gruplarken küçükten büyüğe sıralama yaparak sıralarız
 
-6.adım:[**==8,11,12,16,21,22==**] son kez küçükten büyüğe sıralama yaparız ve dizimiz sıralanmış olur
+6.adım:[**8,11,12,16,21,22**] son kez küçükten büyüğe sıralama yaparız ve dizimiz sıralanmış olur
 
 ---
 
