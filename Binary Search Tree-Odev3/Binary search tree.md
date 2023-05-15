@@ -18,7 +18,7 @@ Root **5** olsun ve tree yapımızı oluşturalım. Root'un solundaki değerler 
            / \      / \
           1   4    6   8
          / \        \   \
-         0  2       7   9
+         0  2        7   9
 
 
 3 değeri 6 değerinden küçük olduğu için sol düğüme yazılmıştır. 7 değeri de 6 değerinden büyük olduğu için sağ düğüme yazılmıştır. Diğer değerlerde bu mantık izlenerek düğümlere yerleştirilmiştir.
